@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Via Rápida</string>
+    <string name="no_open">No se puede abrir archivo</string>
+    <string name="loading_error">Error en carga de pagina -> </string>
+</resources>
