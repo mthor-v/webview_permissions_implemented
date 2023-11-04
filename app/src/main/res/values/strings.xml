@@ -2,4 +2,9 @@
     <string name="app_name">Via Rápida</string>
     <string name="no_open">No se puede abrir archivo</string>
     <string name="loading_error">Error en carga de pagina -> </string>
+    <string name="permission_title">Permiso necesario</string>
+    <string name="permission_message">Necesitamos acceso al almacenamiento para guardar y cargar archivos. ¿Desea otorgar el permiso?</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cancel_permission_text">Permiso cancelado por el usuario</string>
 </resources>
